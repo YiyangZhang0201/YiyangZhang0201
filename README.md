@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @YiyangZhang0201
-- 👀 I’m interested in Mathmatics, Statistics, Programming and Finance.
-- 🌱 I’m currently a student of Quantitative Finance and Risk Management in University of Michigan.
+- 👀 I’m interested in Mathematics, Statistics, Programming, and Finance.
+- 🌱 I’m a PhD Finance student in Scheller, Gatech.
+- 🌱 I finished my Quantitative Finance and Risk Management Master's and Applied Statistics Master's degrees at the University of Michigan.
 - 📫 How to reach me: zhyiyang@umich.edu
 
 <!---
